@@ -2,3 +2,8 @@
 logs/
 # txt-files
 docs/*.txt
+
+#remote git(git-hub)
+public.txt
+
+.gitignore
